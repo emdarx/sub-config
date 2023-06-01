@@ -1,0 +1,1 @@
+vless://15a524e4-12c5-47b9-a15d-7ad6bc39c27e@server.expreset.click:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=apple.com&pbk=pn_ct3jDDIWFJtcDaK4K06My2B3J8PKpYCua9pv2E3E&sid=02bfdaee&spx=/#reality-amir
